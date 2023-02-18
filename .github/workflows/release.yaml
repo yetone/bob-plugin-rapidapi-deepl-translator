@@ -23,7 +23,7 @@ jobs:
         run: sed -i -e "s/0\.1\.0/${{ steps.tag.outputs.tag }}/" src/info.json
 
       - name: Package plugin
-        run: zip -j -r release/rapidapi-deepl-translator-${{ steps.tag.outputs.tag }}.bobplugin ./src/*
+        run: mkdir release && zip -j -r release/rapidapi-deepl-translator-${{ steps.tag.outputs.tag }}.bobplugin ./src/*
 
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
