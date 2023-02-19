@@ -1,6 +1,12 @@
 RapidAPI DeepL Translator Bob Plugin
 ------------------------------------
 
+# ⚠️注意⚠️
+
+大家可以使用 [akl7777777](https://github.com/akl7777777) 同学开发的这个免费的不需要任何 API Key 的 DeepL Bob 插件：https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate
+
+那个插件基于 [zu1k](https://github.com/zu1k) 大佬对 DeepL 官方网页版 API 的破解，只是当初我调研这个方案的时候在我这里仍然会出现 HTTP code 429 (Too many requests)，我以为这个破解方案已经失效了，所以我就开发了这个插件。
+
 # 简介
 
 众所周知，DeepL 是当下翻译效果最好的（不要跟我讲 ChatGPT，它太太太慢了），同时众所周知，作为身在中国大陆的中国人是很难使用 DeepL API 的，
