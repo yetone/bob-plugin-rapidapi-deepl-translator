@@ -10,8 +10,9 @@
     "appcast": "",
     "minBobVersion": "0.5.0",
     "options": [{
-        "identifier": "api_key",
+        "identifier": "api_keys",
         "type": "text",
-        "title": "API KEY (可以用英文逗号分割多个 key 以实现额度加倍及负载均衡)"
+        "title": "API KEY",
+        "desc": "可以用英文逗号分割多个 API KEY 以实现额度加倍及负载均衡"
     }]
 }
