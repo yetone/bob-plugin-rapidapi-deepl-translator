@@ -35,7 +35,7 @@ RapidAPI DeepL Translator Bob Plugin
 
 ![](https://user-images.githubusercontent.com/1206493/219880900-9d1bb27e-46f6-4d07-b3ab-301823af7265.png)
 
-![](https://user-images.githubusercontent.com/1206493/219881161-6c3d4dde-ece4-4461-a266-28c3fbeee5c3.gif)
+![](https://user-images.githubusercontent.com/1206493/219937719-f9937da1-c486-458c-9845-a87d37553a3d.gif)
 
 6. 安装 [PopClip](https://bobtranslate.com/guide/integration/popclip.html) 实现划词后鼠标附近出现小图标
 
