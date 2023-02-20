@@ -3,7 +3,9 @@ RapidAPI DeepL Translator Bob Plugin
 
 # 注意
 
-有个 Bob 插件基于 [zu1k](https://github.com/zu1k) 大佬对 DeepL 官方 API 的破解，只是当初我调研这个方案的时候在我这里仍然会出现 HTTP code 429 (Too many requests)，我以为这个破解方案已经失效了，所以我就开发了这个插件。
+* 有个 Bob 插件（因为是破解的所以就不贴出地址了，需要你们自行查找）基于 [zu1k](https://github.com/zu1k) 大佬对 DeepL 官方 API 的破解，只是当初我调研这个方案的时候在我这里仍然会出现 HTTP code 429 (Too many requests)，我以为这个破解方案已经失效了，所以我就开发了这个插件。
+
+* 这个 RapidAPI 免费版除了字符数限制以外还有请求数限制，每个月 100 个请求数，超出的数量每条请求收费 $0.0024，特此说明一下，由于使用这个 RapidAPI 产生的所有费用，本作者概不负责！
 
 # 简介
 
