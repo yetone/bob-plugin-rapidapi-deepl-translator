@@ -1,6 +1,10 @@
 RapidAPI DeepL Translator Bob Plugin
 ------------------------------------
 
+# 相关推荐
+
+我的另一个通过 OpenAI GPT-3 进行划词翻译的 Bob 插件：https://github.com/yetone/bob-plugin-openai-translator
+
 # 注意
 
 * 有个 Bob 插件（因为是破解的官方 API，有法律风险，所以就不贴出地址了，需要你们自行查找）基于 [zu1k](https://github.com/zu1k) 大佬对 DeepL 官方 API 的破解，只是当初我调研这个方案的时候在我这里仍然会出现 HTTP code 429 (Too many requests)，我以为这个破解方案已经失效了，所以我就开发了这个插件。
