@@ -20,7 +20,7 @@ RapidAPI DeepL Translator Bob Plugin
 当然 OpenL 也是可以用的，但是它的 DeepL API 太贵了，首先 400,000 字符需要 ¥39.19，同时 DeepL API 要 1.4x 的计费倍率，换算下来 500,000 字符的 DeepL 翻译每个月需要 ¥68.58，的确是有点恐怖了。
 
 
-功夫不负有心人，我终于在 RapidAPI 找到了一个封装了 DeepL 的 API —— [DeepL Translator](https://rapidapi.com/splintPRO/api/deepl-translator)，速度很不错，价格也很实惠（免费版每个月 500,000 个字符，月费 $3.99 的版本每个月 15,000,000 个字符），
+功夫不负有心人，我终于在 RapidAPI 找到了一个封装了 DeepL 的 API —— [DeepL Translator](https://rapidapi.com/splintPRO/api/dpl-translator)，速度很不错，价格也很实惠（免费版每个月 500,000 个字符，月费 $3.99 的版本每个月 15,000,000 个字符），
 重点是可以用中国信用卡注册！！！
 
 
@@ -39,7 +39,7 @@ RapidAPI DeepL Translator Bob Plugin
 ![](https://user-images.githubusercontent.com/1206493/219881154-c5d4187e-a44a-4325-9309-e9e570658164.gif)
 
 4. 去 [RapidAPI](https://rapidapi.com) 注册账号，并订阅 [DeepL Translator
-](https://rapidapi.com/splintPRO/api/deepl-translator)（免费版在字符数额度内不需要花钱只需要绑定信用卡）
+](https://rapidapi.com/splintPRO/api/dpl-translator)（免费版在字符数额度内不需要花钱只需要绑定信用卡）
 5. 把 RapidAPI Key 填入 Bob 此插件配置界面的 API KEY
  输入框中
 
