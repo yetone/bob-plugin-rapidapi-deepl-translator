@@ -30,7 +30,7 @@ function translate(query, completion) {
     (async () => {
         const resp = await $http.request({
             method: "POST",
-            url: "https://dpl-translator.p.rapidapi.com/translate",
+            url: "https://blepl-translate.p.rapidapi.com/translate",
             header,
             body,
         });
