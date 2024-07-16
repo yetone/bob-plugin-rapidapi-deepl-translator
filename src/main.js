@@ -20,7 +20,7 @@ function translate(query, completion) {
     const header = {
         "Content-Type": "application/json",
         "X-RapidAPI-Key": api_key,
-        "X-RapidAPI-Host": "deepl-translator.p.rapidapi.com",
+        "X-RapidAPI-Host": "blepl-translate.p.rapidapi.com",
     };
     const body = {
         text: query.text,
@@ -30,7 +30,7 @@ function translate(query, completion) {
     (async () => {
         const resp = await $http.request({
             method: "POST",
-            url: "https://dpl-translator.p.rapidapi.com/translate",
+            url: "https://blepl-translate.p.rapidapi.com/translate",
             header,
             body,
         });
